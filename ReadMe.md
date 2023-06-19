@@ -11,6 +11,7 @@
     </a>
 </p>
 
+<h2>"Um homem forte é sempre gentil"</h2>
 ![](https://github-readme-stats.vercel.app/api?username=dav1s0707&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dav1s0707&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dav1s0707&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
